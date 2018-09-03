@@ -18,4 +18,4 @@ the first 3 models were built with `scikit-learn` and optimized with `GridSearch
 
 see the details in `main.ipynb`
 
-> BTW, this repo is for learning models and toolkits. My college has built a better model with different preprocessing on data
+> BTW, this repo is for learning models and toolkits. My colleague has built a better model with different preprocessing on data
